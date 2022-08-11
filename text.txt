@@ -39,3 +39,4 @@ bbb(normal test5)
 aaa1
 test commit local(test-auto-merge2) to origin(test-auto-merge): git push -u origin test-auto-merge2:test-auto-merge
 test another preson commit to test-auto-merge
+aaa
