@@ -18,6 +18,7 @@ aaa
 bbb(test2 step1)
 aaa
 aaa
+Simulate a conflict commit during the release
 aaa
 aaa
 aaa
