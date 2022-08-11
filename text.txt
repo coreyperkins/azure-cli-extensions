@@ -31,6 +31,7 @@ bbb(test4 step1)
 test commit to test-auto-merge but conflict
 aaa
 aaa
+test commit fail
 aaa
 aaa
 aaa
