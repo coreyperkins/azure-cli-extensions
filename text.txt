@@ -47,3 +47,4 @@ Simulate a PR merged
 Simulate a conflict commit during the release
 aaa
 aaa
+Simulate a PR merged
