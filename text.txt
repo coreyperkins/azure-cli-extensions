@@ -28,6 +28,7 @@ aaa
 aaa
 bbb(test3 step1)aaa
 bbb(test4 step1)
+test commit to test-auto-merge but conflict
 aaa
 aaa
 aaa
