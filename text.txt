@@ -41,3 +41,4 @@ test commit local(test-auto-merge2) to origin(test-auto-merge): git push -u orig
 test another preson commit to test-auto-merge
 aaa
 aaa
+Simulate a PR merged
