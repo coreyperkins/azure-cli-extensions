@@ -54,3 +54,4 @@ Simulate a conflict commit during the release
 Simulate a conflict commit during the release
 Simulate a conflict commit during the release
 aaa
+aaa
